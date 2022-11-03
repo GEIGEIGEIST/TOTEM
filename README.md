@@ -31,6 +31,7 @@ It was created for the SEEED XIAO keyboard contest.
 ## CASE
 
 You can use the TOTEM without a case, but [here](/case/) you can find one, I made for it.
+
 These are renders of the case.
 
 ![TOTEM clay render](/docs/images/TOTEM_clayrender_01.jpg)
