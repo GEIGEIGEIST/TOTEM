@@ -111,7 +111,7 @@ The reset switches are a bit fiddly to solder. It helps to apply a really thin f
 ## TRRS JACKS (optional)
 
 > **Warning**
-> You don't need the TRRS jacks for running the KLOR with ZMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
+> You don't need the TRRS jacks for running the TOTEM with ZMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
 
 Install the TRRS jack on the bottom side of the PCB. The place where you should insert it is marked with a white line.
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
@@ -147,7 +147,7 @@ This is how your finished PCB probably will look like. You can use an old toothb
 ## FIRMWARE
 
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
-[Here](https://github.com/GEIGEIGEIST/zmk-config-klor) you can find the ZMK firmware for the KLOR.\
+[Here](https://github.com/GEIGEIGEIST/zmk-config-totem) you can find the ZMK firmware for the TOTEM.\
 You need to create an own fork of it. In this fork you can edit the keymap to trigger an Github action, which will create your firmware. 
 
 
@@ -160,6 +160,4 @@ You need to create an own fork of it. In this fork you can edit the keymap to tr
 
 ## FINAL BUILD
 
-This is how the final keyboard will look like. In this picture you see the KLOR saegewerk, with RAMA Grid keycaps in NOCT.
-
-![KLOR acrylic case](/docs/images/buildguide/acrylic_case.jpg)
+This is how the final keyboard will look like. 
