@@ -1,4 +1,4 @@
-## TOTEM CASE
+# TOTEM CASE
 
 Each half consists of a bottom and a top part (with integrated switchplate) and is meant to be 3D printed in resin. 
 
