@@ -43,13 +43,6 @@ This is the TOTEM in a black resin case
 
 You can use the TOTEM without a case, but [here](/case/) you can find one, I made for it.
 
-These are renders of the case.
-
-![TOTEM clay render](/docs/images/TOTEM_clayrender_01.jpg)
-
-![TOTEM clay render](/docs/images/TOTEM_clayrender_02.jpg)
-
-
 ***
 
 ## BUILD GUIDE
