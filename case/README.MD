@@ -1,5 +1,5 @@
 These are renders of the case.
 
-![TOTEM clay render](/docs/images/TOTEM_clayrender_01.jpg)
+![TOTEM case front](/docs/images/TOTEM_case_front.png)
 
-![TOTEM clay render](/docs/images/TOTEM_clayrender_02.jpg)
+![TOTEM case back](/docs/images/TOTEM_case_back.png)
