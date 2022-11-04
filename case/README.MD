@@ -7,6 +7,7 @@ I got good results from [JLCPCB](https://cart.jlcpcb.com/quote) (15€ + tax and
 Where possible use the STEP files, but the STL files should be fine too.
 
 > **Note**
-> The manufacture will probably warn you about too thin sections, but it should be fine
+> The manufacture will probably warn you about too thin sections, but it worked fine for me, since these sections are pretty small.
+
 
 ![TOTEM case](/docs/images/TOTEM_case.png)
