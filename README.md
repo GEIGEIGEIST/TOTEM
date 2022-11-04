@@ -17,8 +17,15 @@ It was created for the SEEED XIAO keyboard contest.
 
 ***
 
-## IMAGES
+## PHOTOS
 
+This is the TOTEM in a black resin case
+
+![TOTEM black resin](/docs/images/TOTEM_black_perspective.jpg)
+
+![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)
+
+![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
 ***
 
