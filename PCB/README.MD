@@ -15,3 +15,19 @@ If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_
 - No impedance control
 - Surface Finish HASL(with lead) if you want the easiest soldering experience or LeadFree HASL.
 - Remove Order Number Yes
+
+![TOTEM PCB](/docs/images/TOTEM_pcb.png)
+
+
+
+## CHECK PINOUT
+
+If you only want to check the traces or see what is connected to which pin you can take a look at these graphics.
+
+![TOTEM pinout](/docs/images/TOTEM_pinout.png)
+
+
+
+## TAKE A DEEPER LOOK OR MODIFY 
+
+You can download the project if you need to take a deeper look or modify something. You need the Open Source software [KiCad](https://www.kicad.org/) to open it.
