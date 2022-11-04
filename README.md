@@ -4,7 +4,7 @@
   <img alt="KLOR logo font" src="/docs/images/klor-font-logo-bright.svg">
 </picture>
 
-# TOTEM
+# T O T E M   T O T E M   T O T E M   T O T E M
 
 TOTEM is a 38 keys column-staggered choc split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040.
 It was created for the SEEED XIAO keyboard contest.
