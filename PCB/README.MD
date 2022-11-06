@@ -26,6 +26,8 @@ If you only want to check the traces or see what is connected to which pin you c
 
 ![TOTEM pinout](/docs/images/TOTEM_pinout.png)
 
+![TOTEM traces](/docs/images/TOTEM_traces.svg)
+
 
 
 ## TAKE A DEEPER LOOK OR MODIFY 
