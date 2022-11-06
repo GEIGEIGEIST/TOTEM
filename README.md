@@ -17,7 +17,7 @@ It was created for the SEEED XIAO keyboard contest.
 
 ## LAYOUT
 
-![TOTEM layout](/docs/images/TOTEM_layout.png)
+![TOTEM layout](/docs/images/TOTEM_layout.svg)
 
 ***
 
