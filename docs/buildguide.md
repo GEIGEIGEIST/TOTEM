@@ -50,7 +50,7 @@ The PCB comes in one piece. Which you need to break into two halves.
 
 ![TOTEM PCB](/docs/images/buildguide/pcb_top.jpg)
 
-After breaking them apart, you're left with some sprue marks, which you can remove with a file, but you don't need to.
+After breaking them apart, you're left with some sprue marks, which you can remove with a file if you like to, but you don't need to.
 
 ![PCB sprue marks](/docs/images/buildguide/side_01.jpg)
 
