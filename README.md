@@ -59,10 +59,12 @@ The build guide for the TOTEM can soon be found [here](/docs/buildguide.md).
 
 ***
 
+## CREDITS
+
 People which helped me creating this board and fixing stuff
 - Freya
 - [Marco "Bob"](https://github.com/GroooveBob)
 - [Bubbleology](https://github.com/bubbleology)
 
-If you build a KLOR I would be pretty happy to see some pictures.
+If you build a TOTEM I would be pretty happy to see some pictures.
 
