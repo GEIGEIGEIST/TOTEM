@@ -52,10 +52,10 @@ The PCB comes in one piece. Which you need to break into two halves.
 
 After breaking them apart, you're left with some sprue marks, which you can remove with a file if you like to, but you don't need to.
 
-![PCB sprue marks](/docs/images/buildguide/side_01.jpg)
-
 > **Warning**
 > You should wear a mask while doing this, since the FR4 dust is considered to be toxic.
+
+![PCB sprue marks](/docs/images/buildguide/side_01.jpg)
 
 I paint the edges black using a sharpie, so they fit better with the top and bottom, but that's optional too.
 
@@ -96,7 +96,7 @@ Here you can apply the same technique as used for the diodes: Apply some solder 
 
 ![switch sockets pad](/docs/images/buildguide/hotswap_01.jpg)
 
-Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.\
+Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.
 
 <p align="center">
 <picture>
