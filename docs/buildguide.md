@@ -97,7 +97,7 @@ Here you can apply the same technique as used for the diodes: Apply some solder 
 ![switch sockets pad](/docs/images/buildguide/hotswap_01.jpg)
 
 Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.\
-\
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/socket_dark.svg">
@@ -120,7 +120,7 @@ Now solder the second pad.
 
 ## POWER SWITCHES (only required for bluetooth build)
 
-Apply a tiny bit of solder on one of the bigger, outer pads on top of the PCB. 
+Apply a tiny bit of solder on the bigger, outer pads on top of the PCB. 
 
 ![power switch pads](/docs/images/buildguide/power_01.jpg)
 
