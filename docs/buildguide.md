@@ -137,7 +137,7 @@ Insert the switch into the top of the PCB.
 
 ![reset switch](/docs/images/buildguide/reset_01.jpg)
 
-I placed the fooprint a bit more towards the edge, than it's meant to be, to make it possible to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. Make sure it is aligns with the PCB vertically, so it's oriented correctly.
+I placed the fooprint a bit more towards the edge, than it's meant to be, to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. Make sure it is aligns with the PCB vertically, so it's oriented correctly.
 
 ![reset switch orientation](/docs/images/buildguide/reset_02.jpg)
 
