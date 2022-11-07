@@ -46,14 +46,27 @@ Here is an overview of where and on which side each component needs to be solder
 
 ## BREAK OFF HALVES
 
+The PCB comes in one piece. Which you need to break into two halves.
 
+![TOTEM PCB](/docs/images/buildguide/pcb_top.jpg)
+
+After breaking them apart, you're left with some sprue marks, which you can remove with a file, but you don't need to.
+
+![PCB sprue marks](/docs/images/buildguide/side_01.jpg)
+
+> **Warning**
+> You should wear a mask while doing this, since the FR4 dust is considered to be toxic.
+
+I paint the edges black using a sharpie, so they fit better with the top and bottom, but that's optional too.
+
+![PCB edges](/docs/images/buildguide/side_02.jpg)
 
 
 ***
 
 ## DIODES
 
-The diodes needs to be soldered on the bottomm of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+The diodes needs to be soldered on the top of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
 <p align="center">
 <picture>
@@ -65,12 +78,12 @@ The diodes needs to be soldered on the bottomm of the PCB. Pay attention to thei
 
 Apply a small amount of solder on one pad.
 
-![Solder on one pad](/docs/images/buildguide/diode_solder_pad.jpg)
+![Solder on one pad](/docs/images/buildguide/diode_01.jpg)
 
 
 Then use tweezers to place the diode on the pads and reheat the solder to secure the diode.
 
-![Solder diode](/docs/images/buildguide/diode_in_place.jpg)
+![Solder diode](/docs/images/buildguide/diode_02.jpg)
 
 
 Now you can solder the second pad.
@@ -81,30 +94,55 @@ Now you can solder the second pad.
 
 Here you can apply the same technique as used for the diodes: Apply some solder on one of the pads first.
 
-![switch sockets pad](/docs/images/buildguide/switch_pad.jpg)
+![switch sockets pad](/docs/images/buildguide/hotswap_01.jpg)
 
+Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.
 
-Then place the switch socket in the silk screen markings and reheat the solder. Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/socket_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/docs/images/buildguide/socket_bright.svg">
+  <img alt="hotswap socket orientation" src="/docs/images/buildguide/socket_dark.svg">
+</picture>
+</p>
+
+![hotswap socket right and wrong orientation](/docs/images/buildguide/hotswap_02.jpg)
+
+Than reheat the solder. 
+Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
 Now solder the second pad.
 
-![switch socket soldered](/docs/images/buildguide/switchsocket.jpg)
+![switch socket soldered](/docs/images/buildguide/hotswap_03.jpg.jpg)
 
 ***
 
 ## POWER SWITCHES (only required for bluetooth build)
 
-Apply a tiny bit of solder on one of the bigger, outer pads on top of the PCB. The power switch has some tiny knobs on its bottom, which fits into the PCB holes. Hold it in place with tweezers and than reheat the solder on the pad. After this you can solder the other pad and the three pins.
+Apply a tiny bit of solder on one of the bigger, outer pads on top of the PCB. 
 
-![power switch](/docs/images/buildguide/power_switch.jpg)
+![power switch pads](/docs/images/buildguide/power_01.jpg)
+
+The power switch has some tiny knobs on its bottom, which fits into the PCB holes. Hold it in place with tweezers and than reheat the solder on the pad. After this you can solder the other pad and the three pins.
+
+![power switch](/docs/images/buildguide/power_02.jpg)
 
 
 ***
 
 ## RESET SWITCHES
 
-The reset switches are a bit fiddly to solder. It helps to apply a really thin film of solder to the pads first. Then hold the switch in place with tweezers and solder the big pads on the left and right of the switch (they do not fulfill any electrical purpose, but serve to hold the switches in place). If the switch is seated corretly reheat the solder pads under the switch to connect it. 
+Insert the switch into the top of the PCB. 
 
-![reset switch](/docs/images/buildguide/reset_switch.jpg)
+![reset switch](/docs/images/buildguide/reset_01.jpg)
+
+I placed the fooprint a bit more towards the edge, than it's usually meant to be, to make it possible to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. So make sure it is aligns with the PCB vertically, so it's oriented correctly.
+
+![reset switch orientation](/docs/images/buildguide/reset_02.jpg)
+
+Than solder the four pins on the bottom to the PCB
+
+![reset switch solder](/docs/images/buildguide/reset_switch_03.jpg)
+
 
 ***
 
@@ -114,11 +152,17 @@ The reset switches are a bit fiddly to solder. It helps to apply a really thin f
 > You don't need the TRRS jacks for running the TOTEM with ZMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
 
 Install the TRRS jack on the bottom side of the PCB. The place where you should insert it is marked with a white line.
+
+![TRRS jack](/docs/images/buildguide/trrs_01.jpg)
+
 You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
 
-![TRRS jack taped](/docs/images/buildguide/TRRS_tape.jpg)
+![TRRS jack taped](/docs/images/buildguide/trrs_02.jpg)
 
-![TRRS jack soldered](/docs/images/buildguide/TRRS.jpg)
+Than solder the pins on the bottom to the PCB.
+
+![TRRS jack soldered](/docs/images/buildguide/trrs_03.jpg)
+
 
 ***
 
@@ -130,8 +174,6 @@ You may want to use some masking tape to hold it in place, since you need to sol
 
 
 
-> **Warning**
-> When trimming with flush cutters wear eye protection or hold your hand close above the pins. Otherwise sharp metal pins flying around might hurt you.
 
 ***
 
