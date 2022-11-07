@@ -96,8 +96,8 @@ Here you can apply the same technique as used for the diodes: Apply some solder 
 
 ![switch sockets pad](/docs/images/buildguide/hotswap_01.jpg)
 
-Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.
-
+Then place the switch socket in the silk screen markings. The orientation matters here too. Especially if you plan on using the case.\
+\
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/buildguide/socket_dark.svg">
@@ -106,13 +106,15 @@ Then place the switch socket in the silk screen markings. The orientation matter
 </picture>
 </p>
 
+
 ![hotswap socket right and wrong orientation](/docs/images/buildguide/hotswap_02.jpg)
+
 
 Than reheat the solder. 
 Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
 Now solder the second pad.
 
-![switch socket soldered](/docs/images/buildguide/hotswap_03.jpg.jpg)
+![switch socket soldered](/docs/images/buildguide/hotswap_03.jpg)
 
 ***
 
