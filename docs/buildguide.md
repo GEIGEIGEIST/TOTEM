@@ -143,7 +143,7 @@ I placed the fooprint a bit more towards the edge, than it's meant to be, to int
 
 Than solder the four pins on the bottom to the PCB
 
-![reset switch solder](/docs/images/buildguide/reset_switch_03.jpg)
+![reset switch solder](/docs/images/buildguide/reset_03.jpg)
 
 
 ***
