@@ -33,6 +33,7 @@
 | 3D printed case        | 02 | Find the case files [here](/case) |
 | 7mm M2 standoffs       | 08 | 7mm standoffs for screwing top and bottom of the case together |
 | 6mm M2 countersunk screws | 16 ||
+| 8.5mm rubber feet | 8 | they can also be smaller |
 
 
 ## INTRODUCTION
@@ -171,19 +172,51 @@ Than solder the pins on the bottom to the PCB.
 ## MICROCONTROLLER
 
 > **Warning**
-> First flash the microcontroller to make sure it works, before soldering it in.
+> First flash the microcontroller to make sure it works, before soldering it in. Especially since you can't use sockets.
+
+Place the microcontroller in it's place. 
+
+> **Note**
+> If you're struggling with keeping it in place you can use the headers, which came with it and some double sided tape. But make sure it sits flat on the PCB. Otherwise the case won't fit.
+
+Apply some flux and try to hold the iron in an angle where you touch the pads of the microcontroller and the PCB, while adding solder.
+
+![soldering MCU](/docs/images/buildguide/MCU_01.jpg)
+
+The pads on the back are a bit fiddly to solder, so you should add a lot of flux to the pads on the microcontroller first. Than apply the same technique as on the front: Try to touch the pads on the microcontroller and the PCB before adding solder. 
+
+![soldering MCU back](/docs/images/buildguide/MCU_02.jpg)
 
 
 
+***
+
+## BATTERY (optional)
+
+> **Warning**
+> You don't need the battery for running the TOTEM with QMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
+
+You probably need to shorten the cables and tin them, since the lenght needs to be pretty short, to fit. I've also plasti dipped mine.
+
+![shorten battery cables](/docs/images/buildguide/battery_01.jpg)
+
+> **Warning**
+> Before attaching the battery in any way to the PCB set the the power switch to off (right on both sides).
+
+You can see which cable needs to go in which eye by the silkscreen below the eyes. Red is + / Black is -.
+
+![battery face](/docs/images/buildguide/batt_face.jpg)
+
+Attach the wires of the battery to the pads and solder them in.
+
+![Ouch](/docs/images/buildguide/it_stings.jpg)
 
 
 ***
 
 ## CLEANING
 
-This is how your finished PCB probably will look like. You can use an old toothbrush and some isopropanol to clean it from residues. 
-
-![Finished PCB](/docs/images/buildguide/PCB_finished_BLE.jpg)
+You can use an old toothbrush and some isopropanol to clean it from residues. 
 
 
 ***
@@ -192,16 +225,52 @@ This is how your finished PCB probably will look like. You can use an old toothb
 
 If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
 [Here](https://github.com/GEIGEIGEIST/zmk-config-totem) you can find the ZMK firmware for the TOTEM.\
-You need to create an own fork of it. In this fork you can edit the keymap to trigger an Github action, which will create your firmware. 
+[Here](https://github.com/GEIGEIGEIST/qmk-config-totem) you can find the QMK firmware for the TOTEM.\
+
+Probably a good idea to install switches to make sure all of them work, before inserting the board into the case.
+
+![PCB with switches](/docs/images/buildguide/pcb_switches.jpg)
 
 
 ***
 
 ## CASE
 
+> **Note**
+> I'm using the transparent version of the case, so it's easier to see where everything goes, but it's identical to the black/white case.
+
+First install put the standoffs from below into the top of the case.
+
+![Top case with standoffs](/docs/images/buildguide/case_top_standoffs.jpg)
+
+
+Next screw them in from above.
+
+![Top case with screws](/docs/images/buildguide/case_top_screws.jpg)
+
+
+Now insert the board into the top and connect them using the switches.
+
+![Top case with switches](/docs/images/buildguide/switches.jpg)
+
+
+The bottom has some insets for using rubber feet. 
+
+![bottom case insets](/docs/images/buildguide/case_bottom_bump.jpg)
+
+
+You can than attach the bottom to the case and screw it in. 
+
+![bottom case screws](/docs/images/buildguide/case_bottom_screws.jpg)
+
+
 
 ***
 
 ## FINAL BUILD
 
-This is how the final keyboard will look like. 
+This is how the final keyboard will probably look like. 
+
+![final build](/docs/images/buildguide/final.jpg)
+
+
