@@ -196,7 +196,7 @@ The pads on the back are a bit fiddly to solder, so you should add a lot of flux
 > **Warning**
 > You don't need the battery for running the TOTEM with QMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
 
-You probably need to shorten the cables and tin them, since the lenght needs to be pretty short, to fit. I've also plasti dipped mine.
+You probably need to shorten the cables and tin them, since the length needs to be pretty short, to fit. I've also plasti dipped mine.
 
 ![shorten battery cables](/docs/images/buildguide/battery_01.jpg)
 
