@@ -223,11 +223,11 @@ You can use an old toothbrush and some isopropanol to clean it from residues.
 
 ## FIRMWARE
 
-If you have not already flashed the firmware to the microcontroller you should do it now, to make sure everything works, before inserting it into the case.\
+If you have not already flashed the firmware to the microcontroller you should do it now.\
 [Here](https://github.com/GEIGEIGEIST/zmk-config-totem) you can find the ZMK firmware for the TOTEM.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-totem) you can find the QMK firmware for the TOTEM.\
 
-Probably a good idea to install switches to make sure all of them work, before inserting the board into the case.
+Probably a good idea to also install switches to make sure all of them work, before inserting the board into the case.
 
 ![PCB with switches](/docs/images/buildguide/pcb_switches.jpg)
 
