@@ -239,7 +239,7 @@ Probably a good idea to also install switches to make sure all of them work, bef
 > **Note**
 > I'm using the transparent version of the case, so it's easier to see where everything goes, but it's identical to the black/white case.
 
-First install put the standoffs from below into the top of the case.
+First install the standoffs from below into the top of the case.
 
 ![Top case with standoffs](/docs/images/buildguide/case_top_standoffs.jpg)
 
