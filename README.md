@@ -76,7 +76,7 @@ People which helped me creating this board and fixing stuff
 - Freya
 - [Bubbleology](https://github.com/bubbleology)
 
-### FIRMWARE
+#### FIRMWARE
 - [Cem Aksoylar](https://github.com/caksoylar)
 - [Grinnie](https://github.com/grinnie)
 - [Alaa Saad Mansour](https://github.com/AlaaSaadAbdo)
