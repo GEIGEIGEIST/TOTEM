@@ -15,7 +15,7 @@
 | USB-C cable     | 01 | For connecting the keyboard with your PC |
 | power switch    | 02 | MSK12C02 (only required for the bluetooth build) |
 | Lipo battery    | 02 | There is space for a 15 x 22 x 7.5 mm battery (only required for the bluetooth build) |
-| TRRS jack       | 02 | (only required for the wired build)|
+| TRRS jack       | 02 | MJ-4PP-9 or PJ320A (only required for the wired build)|
 | TRRS cable      | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex) (only required for the wired build)|
 
 
