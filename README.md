@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/TOTEM_logo_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/TOTEM_logo_bright.svg">
-  <img alt="KLOR logo font" src="/docs/images/klor-font-logo-bright.svg">
+  <img alt="TOTEM logo" src="/docs/images/TOTEM_logo_dark.svg">
 </picture>
 
 <h1 align="center">T O T E M   T O T E M   T O T E M   T O T E M   T O T E M</h1>
