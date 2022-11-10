@@ -20,9 +20,10 @@ If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_
 
 ***
 
-## CHECK PINOUT
+## CHECK PINOUT OR TRACES
 
 If you only want to check the traces or see what is connected to which pin you can take a look at these graphics.
+You can also take a look at the [schematics](TOTEM_0-3_schematic.pdf) and the [PCB](TOTEM_0-3_PCB.pdf) as PDF.
 
 ![TOTEM pinout](/docs/images/TOTEM_pinout.png)
 
