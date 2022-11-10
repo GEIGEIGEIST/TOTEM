@@ -61,10 +61,27 @@ The build guide for the TOTEM can soon be found [here](/docs/buildguide.md).
 
 ## CREDITS
 
+### INSPIRATION
+
+I've added the additional pinky key to make the TOTEM compatible with the layout boards like the [Balbuzard](https://github.com/brow/balbuzard) by [Tom Brow](https://github.com/brow) and the [Osprette](https://github.com/smores56/osprette) by [Sam Mohr](https://github.com/smores56) uses, where you put the keybinding of the top left and right keys on an outer pinky key.
+
+### HELP FIXING THINGS
+
 People which helped me creating this board and fixing stuff
-- Freya
+
+#### PCB
 - [Marco "Bob"](https://github.com/GroooveBob)
+
+#### CASE
+- Freya
 - [Bubbleology](https://github.com/bubbleology)
+
+### FIRMWARE
+- [Cem Aksoylar](https://github.com/caksoylar)
+- [Grinnie](https://github.com/grinnie)
+- [Alaa Saad Mansour](https://github.com/AlaaSaadAbdo)
+- [pekudzu](https://github.com/pekudzu)
+
 
 If you build a TOTEM I would be pretty happy to see some pictures.
 
