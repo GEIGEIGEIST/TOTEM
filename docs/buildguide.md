@@ -31,7 +31,7 @@
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
 | 3D printed case        | 02 | Find the case files [here](/case) |
-| 7mm M2 standoffs       | 08 | 7mm standoffs for screwing top and bottom of the case together |
+| 7mm M2 standoffs       | 08 | 7mm round standoffs for screwing top and bottom of the case together |
 | 6mm M2 countersunk screws | 16 ||
 | 8.5mm rubber feet | 8 | they can also be smaller |
 
