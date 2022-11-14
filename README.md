@@ -4,11 +4,10 @@
   <img alt="TOTEM logo" src="/docs/images/TOTEM_logo_dark.svg">
 </picture>
 
-<h1 align="center">T O T E M   T O T E M   T O T E M   T O T E M   T O T E M</h1>
+<h1 align="center">T O T E M</h1>
 
 TOTEM is a 38 keys column-staggered choc split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040.
 It was created for the SEEED XIAO keyboard contest.
-
 
 > **Note**
 > This repo is currently under construction, but will be completed in the next few days
@@ -18,18 +17,6 @@ It was created for the SEEED XIAO keyboard contest.
 ## LAYOUT
 
 ![TOTEM layout](/docs/images/TOTEM_layout.svg)
-
-***
-
-## PHOTOS
-
-This is the TOTEM in a black resin case
-
-![TOTEM black resin](/docs/images/TOTEM_black_perspective.jpg)
-
-![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)
-
-![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
 ***
 
@@ -53,9 +40,19 @@ The build guide for the TOTEM can soon be found [here](/docs/buildguide.md).
 
 ## FIRMWARE
 
-[QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040) 
-
+[QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040)\
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
+
+***
+
+## PHOTOS
+
+This is the TOTEM in a black resin case
+
+![TOTEM black resin](/docs/images/TOTEM_black_perspective.jpg)\
+![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
+![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
+
 
 ***
 
