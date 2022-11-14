@@ -53,7 +53,7 @@ The build guide for the TOTEM can soon be found [here](/docs/buildguide.md).
 
 ## FIRMWARE
 
-!NOT YET READY! [QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040) 
+[QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040) 
 
 [ZMK config](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
 
