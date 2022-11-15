@@ -70,7 +70,7 @@ People which helped me creating this board and fixing stuff
 - [Marco "Bob"](https://github.com/GroooveBob)
 
 #### CASE
-- Freya
+- [Freya](https://github.com/freya-irl)
 - [Bubbleology](https://github.com/bubbleology)
 
 #### FIRMWARE
