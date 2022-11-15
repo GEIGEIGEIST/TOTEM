@@ -34,7 +34,7 @@ You can use the TOTEM without a case, but [here](/case/) you can find one, I mad
 
 ## BUILD GUIDE
   
-The build guide for the TOTEM can soon be found [here](/docs/buildguide.md).
+The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 
 ***
 
