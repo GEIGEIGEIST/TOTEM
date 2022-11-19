@@ -9,9 +9,6 @@
 TOTEM is a 38 keys column-staggered choc split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040.
 It was created for the SEEED XIAO keyboard contest.
 
-> **Note**
-> This repo is currently under construction, but will be completed in the next few days
-
 ***
 
 ## LAYOUT
