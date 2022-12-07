@@ -78,5 +78,5 @@ People which helped me creating this board and fixing stuff
 - [pekudzu](https://github.com/pekudzu)
 
 
-If you build a TOTEM I would be pretty happy to see some pictures.
+If you build a TOTEM I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
 
