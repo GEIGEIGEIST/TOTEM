@@ -6,7 +6,7 @@ I got good results from [JLCPCB](https://cart.jlcpcb.com/quote) (15€ + tax and
 
 Where possible use the STEP files, but the STL files should be fine too.
 
-If you're sure you only will use the wired version you can also use the case without power switch or use the case without TRRS cutout if you plan on using the wireless version.
+If you're sure you only will use the wired version you can also use the case without power switch (USB) or use the case without TRRS cutout if you plan on using the wireless version (BLE).
 
 > **Note**
 > The manufacture will probably warn you about too thin sections, but it worked fine for me, since these sections are pretty small.
