@@ -26,7 +26,7 @@ It was created for the SEEED XIAO keyboard contest.\
 
 ## CASE
 
-You can use the TOTEM without a case, but [here](/case/) you can find one, I made for it.
+You can use the TOTEM without a case, but [here](/case/) you can find one I made for it.
 
 ***
 
@@ -62,7 +62,7 @@ I've added the additional pinky key to make the TOTEM compatible with the layout
 
 ### HELP FIXING THINGS
 
-People which helped me creating this board and fixing stuff
+People who helped me creating this board and fixing stuff
 
 #### PCB
 - [Marco "Bob"](https://github.com/GroooveBob)
