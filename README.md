@@ -51,6 +51,11 @@ This is the TOTEM in a black resin case
 ![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
+***
+
+## BUY 
+
+You can buy TOTEM kits and finished builds on ![keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only)
 
 ***
 
