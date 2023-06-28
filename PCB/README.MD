@@ -7,7 +7,7 @@ If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_
 
 - download [the ZIP file](/PCB/totem_0-3/totem_0-3_gerbers.zip/)
 - upload the ZIP file to the website of the manufacturer.
-- sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use this dimensions: 258.7mm * 94.35mm
+- sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use these dimensions: 258.7mm * 94.35mm
 - PCB Thickness 1.6mm
 - 2 layers
 - PCB Qty as much as you like. One PCB is a full keyboard.
