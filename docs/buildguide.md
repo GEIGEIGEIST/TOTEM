@@ -8,13 +8,13 @@
 | :-------------- | :---: | :------ |
 | TOTEM PCB       | 01 | You can find the files for it [here](/PCB/) |
 | Seeed XIAO      | 02 | You can choose between the BLE version (wireless) or the RP2040 version (wired) |
-| Choc key switch | 38 | Kailh Choc low profile keyswitches |
+| Choc key switch | 38 | Kailh Choc low profile key switches |
 | diodes 1N4148W  | 38 | These are surface mount diodes in SOD123 package |
 | 1u Choc keycaps | 38 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
 | reset button    | 02 | Alps SKHLLCA010 |
-| USB-C cable     | 01 | For connecting the keyboard with your PC |
-| power switch    | 02 | MSK12C02 (only required for the bluetooth build) |
-| Lipo battery    | 02 | There is space for a 15 x 22 x 7.5 mm battery (only required for the bluetooth build) |
+| USB-C cable     | 01 | For connecting the keyboard to your PC |
+| power switch    | 02 | MSK12C02 (only required for the Bluetooth build) |
+| Lipo battery    | 02 | There is space for a 15 x 22 x 7.5 mm battery (only required for the Bluetooth build) |
 | TRRS jack       | 02 | MJ-4PP-9 or PJ320A (only required for the wired build)|
 | TRRS cable      | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex) (only required for the wired build)|
 
@@ -31,7 +31,7 @@
 | Part name              | Count | Remarks | 
 | :--------------------- | :---: | :------ |
 | 3D printed case        | 02 | Find the case files [here](/case) |
-| 6mm M2 standoffs       | 08 | 6mm round standoffs for screwing top and bottom of the case together |
+| 6mm M2 standoffs       | 08 | 6mm round standoffs for screwing the top and bottom of the case together |
 | 6mm M2 countersunk screws | 16 ||
 | 8.5mm rubber feet | 8 | they can also be smaller |
 
@@ -47,14 +47,14 @@ Here is an overview of where and on which side each component needs to be solder
 
 ## BREAK OFF HALVES
 
-The PCB comes in one piece. Which you need to break into two halves.
+The PCB comes in one piece. You need to break it into two halves.
 
 ![TOTEM PCB](/docs/images/buildguide/pcb_top.jpg)
 
-After breaking them apart, you're left with some sprue marks, which you can remove with a file if you like to, but you don't need to.
+After breaking them apart, you're left with some sprue marks, which you can remove with a file if you like, but you don't need to.
 
 > **Warning**
-> You should wear a mask while doing this, since the FR4 dust is considered to be toxic.
+> You should wear a mask while doing this since the FR4 dust is considered to be toxic.
 
 ![PCB sprue marks](/docs/images/buildguide/side_01.jpg)
 
@@ -67,7 +67,7 @@ I paint the edges black using a sharpie, so they fit better with the top and bot
 
 ## DIODES
 
-The diodes needs to be soldered on the top of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
+The diodes need to be soldered on the top of the PCB. Pay attention to their orientation:  They have a small line on one side, which should be on the side the arrow on the PCB is facing to.
 
 <p align="center">
 <picture>
@@ -111,7 +111,7 @@ Then place the switch socket in the silk screen markings. The orientation matter
 ![hotswap socket right and wrong orientation](/docs/images/buildguide/hotswap_02.jpg)
 
 
-Than reheat the solder. 
+Then reheat the solder. 
 Apply some pressure with a pair of tweezers to make sure the socket is fully seated.\
 Now solder the second pad.
 
@@ -119,13 +119,13 @@ Now solder the second pad.
 
 ***
 
-## POWER SWITCHES (only required for bluetooth build)
+## POWER SWITCHES (only required for Bluetooth build)
 
 Apply a tiny bit of solder on the bigger, outer pads on top of the PCB. 
 
 ![power switch pads](/docs/images/buildguide/power_01.jpg)
 
-The power switch has some tiny knobs on its bottom, which fits into the PCB holes. Hold it in place with tweezers and than reheat the solder on the pad. After this you can solder the other pad and the three pins.
+The power switch has some tiny knobs on its bottom, which fit into the PCB holes. Hold it in place with tweezers and then reheat the solder on the pad. After this, you can solder the other pad and the three pins.
 
 ![power switch](/docs/images/buildguide/power_02.jpg)
 
@@ -138,11 +138,11 @@ Insert the switch into the top of the PCB.
 
 ![reset switch](/docs/images/buildguide/reset_01.jpg)
 
-I placed the fooprint a bit more towards the edge, than it's meant to be, to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. Make sure it is aligns with the PCB vertically, so it's oriented correctly.
+I placed the footprint a bit more towards the edge, than it's meant to be, to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. Make sure it is aligned with the PCB vertically, so it's oriented correctly.
 
 ![reset switch orientation](/docs/images/buildguide/reset_02.jpg)
 
-Than solder the four pins on the bottom to the PCB
+Then solder the four pins on the bottom to the PCB
 
 ![reset switch solder](/docs/images/buildguide/reset_03.jpg)
 
@@ -152,17 +152,17 @@ Than solder the four pins on the bottom to the PCB
 ## TRRS JACKS (optional)
 
 > **Warning**
-> You don't need the TRRS jacks for running the TOTEM with ZMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
+> You don't need the TRRS jacks for running the TOTEM with ZMK. Actually, you can damage your board when connecting it through TRRS, while also connected to a battery.
 
 Install the TRRS jack on the bottom side of the PCB. The place where you should insert it is marked with a white line.
 
 ![TRRS jack](/docs/images/buildguide/trrs_01.jpg)
 
-You may want to use some masking tape to hold it in place, since you need to solder it on the bottom.
+You may want to use some masking tape to hold it in place since you need to solder it on the bottom.
 
 ![TRRS jack taped](/docs/images/buildguide/trrs_02.jpg)
 
-Than solder the pins on the bottom to the PCB.
+Then solder the pins on the bottom to the PCB.
 
 ![TRRS jack soldered](/docs/images/buildguide/trrs_03.jpg)
 
@@ -174,16 +174,16 @@ Than solder the pins on the bottom to the PCB.
 > **Warning**
 > First flash the microcontroller to make sure it works, before soldering it in. Especially since you can't use sockets.
 
-Place the microcontroller in it's place. 
+Place the microcontroller in its place. 
 
 > **Note**
-> If you're struggling with keeping it in place you can use the headers, which came with it and some double sided tape. But make sure it sits flat on the PCB. Otherwise the case won't fit.
+> If you're struggling with keeping it in place you can use the headers, which came with it, and some double-sided tape. But make sure it sits flat on the PCB. Otherwise, the case won't fit.
 
-Apply some flux and try to hold the iron in an angle where you touch the pads of the microcontroller and the PCB, while adding solder.
+Apply some flux and try to hold the iron at an angle where you touch the pads of the microcontroller and the PCB while adding solder.
 
 ![soldering MCU](/docs/images/buildguide/MCU_01.jpg)
 
-The pads on the back are a bit fiddly to solder, so you should add a lot of flux to the pads on the microcontroller first. Than apply the same technique as on the front: Try to touch the pads on the microcontroller and the PCB before adding solder. 
+The pads on the back are a bit fiddly to solder, so you should add a lot of flux to the pads on the microcontroller first. Then apply the same technique as on the front: Try to touch the pads on the microcontroller and the PCB before adding solder. 
 
 ![soldering MCU back](/docs/images/buildguide/MCU_02.jpg)
 
@@ -194,14 +194,14 @@ The pads on the back are a bit fiddly to solder, so you should add a lot of flux
 ## BATTERY (optional)
 
 > **Warning**
-> You don't need the battery for running the TOTEM with QMK. Actually you can damage your board when connecting it through TRRS, while also connected to a battery.
+> You don't need the battery for running the TOTEM with QMK. Actually, you can damage your board when connecting it through TRRS, while also connected to a battery.
 
 You probably need to shorten the cables and tin them, since the length needs to be pretty short, to fit. I've also plasti dipped mine.
 
 ![shorten battery cables](/docs/images/buildguide/battery_01.jpg)
 
 > **Warning**
-> Before attaching the battery in any way to the PCB set the the power switch to off (right on both sides).
+> Before attaching the battery in any way to the PCB set the power switch to off (right on both sides).
 
 You can see which cable needs to go in which eye by the silkscreen below the eyes. Red is + / Black is -.
 
@@ -239,7 +239,7 @@ Probably a good idea to also install switches to make sure all of them work, bef
 > **Note**
 > I'm using the transparent version of the case, so it's easier to see where everything goes, but it's identical to the black/white case.
 
-First install the standoffs from below into the top of the case.
+First, install the standoffs from below into the top of the case.
 
 ![Top case with standoffs](/docs/images/buildguide/case_top_standoffs.jpg)
 
@@ -259,7 +259,7 @@ The bottom has some insets for using rubber feet.
 ![bottom case insets](/docs/images/buildguide/case_bottom_bump.jpg)
 
 
-You can than attach the bottom to the case and screw it in. 
+You can then attach the bottom to the case and screw it in. 
 
 ![bottom case screws](/docs/images/buildguide/case_bottom_screws.jpg)
 
@@ -269,7 +269,7 @@ You can than attach the bottom to the case and screw it in.
 
 ## FINAL BUILD
 
-This is how the final keyboard will probably look like. 
+This is what the final keyboard will probably look like. 
 
 ![final build](/docs/images/buildguide/final.jpg)
 
