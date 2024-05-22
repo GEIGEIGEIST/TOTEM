@@ -35,6 +35,13 @@
 | 6mm M2 countersunk screws | 16 ||
 | 8.5mm rubber feet | 8 | they can also be smaller |
 
+### TENTING CASE PARTS
+| Part name              | Count | Remarks | 
+| :--------------------- | :---: | :------ |
+| Additional 8.5mm rubber feet | 2 | Optional, they can also be smaller |
+| Tenting feet | 4 | Example source [here](https://aliexpress.com/item/1005005605228469.html) |
+| Anti-Slip adhesive sheet | 1 | Optional, example source [here](https://aliexpress.com/item/1005005377684110.html) |
+
 
 ## INTRODUCTION
 
