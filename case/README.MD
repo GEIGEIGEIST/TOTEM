@@ -13,3 +13,25 @@ If you're sure you only will use the wired version you can also use the case wit
 
 
 ![TOTEM case](/docs/images/TOTEM_case.png)
+
+## Tenting
+
+Tenting is possible using the provided bottom plates found in the tenting folder. These bottom plates are compatible with their corresponding non-tenting top part. The tenting bottom plates are compatible with the same screws as the non-tenting bottom plates.
+
+
+
+![TOTEM tenting height comparison](/docs/images/TOTEM_case_height_comparison.png)
+> **Note**
+>Using these tenting bottom plates (left) the keyboard height will be increased by the thickness of the tenting feet (around 4mm). Compared to the default bottom plate (right).
+
+
+The tenting bottom plates are designed for these laptop raisers: 
+https://aliexpress.com/item/1005005605228469.html
+These are attached using the provided adhesive and sit flush with the bottom of the plate.
+
+![TOTEM tenting bottom](/docs/images/TOTEM_case_tenting_bottom.png)
+
+This system enables two tenting options: 13 and 20 degrees.
+The feet allow for an even higher tenting option but this is not offically supported due to design constrains for top piece compatibility.
+
+For optional extra grip whilst tenting there is a recess made at the pinky-key designed for anti-slip adhesive pads. such as this one: https://aliexpress.com/item/1005005377684110.html
