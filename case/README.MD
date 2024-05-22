@@ -25,13 +25,12 @@ Tenting is possible using the provided bottom plates found in the tenting folder
 >Using these tenting bottom plates (left) the keyboard height will be increased by the thickness of the tenting feet (around 4mm). Compared to the default bottom plate (right).
 
 
-The tenting bottom plates are designed for these laptop raisers: 
-https://aliexpress.com/item/1005005605228469.html
+The tenting bottom plates are designed for [these laptop risers](https://aliexpress.com/item/1005005605228469.html).
 These are attached using the provided adhesive and sit flush with the bottom of the plate.
 
 ![TOTEM tenting bottom](/docs/images/TOTEM_case_tenting_bottom.png)
 
 This system enables two tenting options: 13 and 20 degrees.
-The feet allow for an even higher tenting option but this is not offically supported due to design constrains for top piece compatibility.
+The feet allow for an even higher tenting option but this is not officially supported due to design constrains for top piece compatibility.
 
-For optional extra grip whilst tenting there is a recess made at the pinky-key designed for anti-slip adhesive pads. such as this one: https://aliexpress.com/item/1005005377684110.html
+For optional extra grip whilst tenting there is a recess made at the pinky key designed for anti-slip adhesive pads, such as [this one](https://aliexpress.com/item/1005005377684110.html)
