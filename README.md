@@ -58,6 +58,12 @@ This is the TOTEM with a black resin tenting bottom plate
 
 ***
 
+## VIDEOS
+
+[Video by *Wolfgang's Channel* showing the tenting system in action](https://youtu.be/rvM2BthjEI4?si=mTJVdPeZstshnDyo)
+
+***
+
 ## BUY 
 
 You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
