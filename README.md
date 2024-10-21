@@ -52,6 +52,17 @@ This is the TOTEM in a black resin case
 ![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
+This is the TOTEM with a black resin tenting bottom plate
+
+![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_example.jpg)\
+![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_bottom.jpg)
+
+***
+
+## VIDEOS
+
+[Video by *Wolfgang's Channel* showing the tenting system in action](https://youtu.be/rvM2BthjEI4?si=mTJVdPeZstshnDyo)
+
 ***
 
 ## BUY 
