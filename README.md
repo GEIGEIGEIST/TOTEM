@@ -41,6 +41,11 @@ The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 [QMK (VIAL) precompiled](/firmware/QMK/) [QMK (VIAL) source](/firmware/QMK/VIAL_source/) or [QMK source (outdated)](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040)\
 [ZMK precompiled](/firmware/ZMK/) or [ZMK source (outdated)](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
 
+***
+
+## BUY
+
+You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (worldwide shipping)
 
 ***
 
@@ -57,12 +62,6 @@ This is the TOTEM with a black resin tenting bottom plate
 ![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_example.jpg)\
 ![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_bottom.jpg)\
 Video by *Wolfgang's Channel* showing the tenting system in action](https://youtu.be/rvM2BthjEI4?si=mTJVdPeZstshnDyo)
-
-***
-
-## BUY
-
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (worldwide shipping)
 
 ***
 
