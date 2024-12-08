@@ -31,7 +31,7 @@ You can use the TOTEM without a case, but [here](/case/) you can find one I made
 ***
 
 ## BUILD GUIDE
-  
+
 The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 
 ***
@@ -65,9 +65,9 @@ This is the TOTEM with a black resin tenting bottom plate
 
 ***
 
-## BUY 
+## BUY
 
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
+You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (worldwide shipping)
 
 ***
 
@@ -96,4 +96,3 @@ People who helped me create this board and fix stuff
 
 
 If you build a TOTEM I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
-
