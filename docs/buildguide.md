@@ -4,19 +4,19 @@
 
 ### REQUIRED PARTS
 
-| Part name       | Count | Remarks | 
-| :-------------- | :---: | :------ |
-| TOTEM PCB       | 01 | You can find the files for it [here](/PCB/) |
-| Seeed XIAO      | 02 | You can choose between the BLE version (wireless) or the RP2040 version (wired) |
-| Choc key switch | 38 | Kailh Choc low profile key switches |
-| diodes 1N4148W  | 38 | These are surface mount diodes in SOD123 package |
-| 1u Choc keycaps | 38 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
-| reset button    | 02 | Alps SKHLLCA010 |
-| USB-C cable     | 01 | For connecting the keyboard to your PC |
-| power switch    | 02 | MSK12C02 (only required for the Bluetooth build) |
-| Lipo battery    | 02 | There is space for a 15 x 22 x 7.5 mm battery (only required for the Bluetooth build) |
-| TRRS jack       | 02 | MJ-4PP-9 or PJ320A (only required for the wired build)|
-| TRRS cable      | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex) (only required for the wired build)|
+| Part name        | Count | Remarks | 
+| :--------------  | :---: | :------ |
+| TOTEM PCB        | 01 | You can find the files for it [here](/PCB/) |
+| Seeed Studio XIAO| 02 | You can choose between the [nRF52840 BLE version (wireless)](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or the [RP2040 version (wired)](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
+| Choc key switch  | 38 | Kailh Choc low profile key switches |
+| diodes 1N4148W   | 38 | These are surface mount diodes in SOD123 package |
+| 1u Choc keycaps  | 38 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
+| reset button     | 02 | Alps SKHLLCA010 |
+| USB-C cable      | 01 | For connecting the keyboard to your PC |
+| power switch     | 02 | MSK12C02 (only required for the Bluetooth build) |
+| Lipo battery     | 02 | There is space for a 15 x 22 x 7.5 mm battery (only required for the Bluetooth build) |
+| TRRS jack        | 02 | MJ-4PP-9 or PJ320A (only required for the wired build)|
+| TRRS cable       | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/serial_driver.md#usart-half-duplex) (only required for the wired build)|
 
 
 ### OPTIONAL PARTS
