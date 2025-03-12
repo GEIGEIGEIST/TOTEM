@@ -45,7 +45,7 @@ The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 
 ## BUY
 
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (worldwide shipping)
+You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (based in Germany)
 
 ***
 
