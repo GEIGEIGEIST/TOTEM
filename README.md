@@ -28,6 +28,8 @@ It was created for the SEEED XIAO keyboard contest.\
 
 You can use the TOTEM without a case, but [here](/case/) you can find one I made for it.
 
+There is also a transport case to keep both halves together and prevent dust.
+
 ***
 
 ## BUILD GUIDE
