@@ -34,3 +34,11 @@ This system enables two tenting options: 13 and 20 degrees.
 The feet allow for an even higher tenting option but this is not officially supported due to design constrains for top piece compatibility.
 
 For optional extra grip whilst tenting there is a recess made at the pinky key designed for anti-slip adhesive pads, such as [this one](https://aliexpress.com/item/1005005377684110.html)
+
+## Transport Case
+
+This print-in-place transport case is designed to fit closely to the finished keyboard.
+
+![TOTEM Transport case](/docs/images/TOTEM_transport_case_open.png)
+
+![TOTEM Transport case](/docs/images/TOTEM_transport_case_closed.png)
