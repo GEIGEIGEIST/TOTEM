@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "TOTEMlib")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd-master/kbd-master/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "pg1350")(type "KiCad")(uri "${KIPRJMOD}/kleeb-master/pg1350.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/kleeb-master/mcu.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kleeb-master/misc.pretty")(options "")(descr ""))
+)

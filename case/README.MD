@@ -1,6 +1,7 @@
 # TOTEM CASE
 
-Each half consists of a bottom and a top part (with an integrated switchplate) and is meant to be 3D printed in resin. 
+Each half consists of a bottom and a top part (with an integrated switchplate) and is meant to be 3D printed in resin.
+This case design is compatible with both **PCB Version 0.3** and **PCB Version 0.4**.
 
 I got good results from [JLCPCB](https://cart.jlcpcb.com/quote) (15€ + tax and shipping for a black or white version) and [PCBway](https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP) (50€ + tax and shipping for a clear case).
 

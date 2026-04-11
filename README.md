@@ -6,7 +6,10 @@
 
 <h1 align="center">T O T E M</h1>
 
-TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with a [Seeed Studio XIAO nRF52840 BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html).
+TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with:
+- **PCB v0.3:** [Seeed Studio XIAO nRF52840 BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
+- **PCB v0.4:** [Seeed Studio XIAO nRF52840 BLE Plus](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html) or [XIAO RP2350](https://www.seeedstudio.com/Seeed-XIAO-RP2350-p-5944.html)
+
 It was created for the SEEED XIAO keyboard contest.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 

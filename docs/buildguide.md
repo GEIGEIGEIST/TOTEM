@@ -7,7 +7,7 @@
 | Part name        | Count | Remarks | 
 | :--------------  | :---: | :------ |
 | TOTEM PCB        | 01 | You can find the files for it [here](/PCB/) |
-| Seeed Studio XIAO| 02 | You can choose between the [nRF52840 BLE version (wireless)](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or the [RP2040 version (wired)](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
+| Seeed Studio XIAO| 02 | **PCB 0.3:** [nRF52840 BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or [RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)<br>**PCB 0.4:** [nRF52840 Plus](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html) or [RP2350](https://www.seeedstudio.com/Seeed-XIAO-RP2350-p-5944.html) |
 | Choc key switch  | 38 | Kailh Choc low profile key switches |
 | diodes 1N4148W   | 38 | These are surface mount diodes in SOD123 package |
 | 1u Choc keycaps  | 38 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
